@@ -1,7 +1,7 @@
-# BattleStar
-XakaTOH
+# Хакатон PRO-ТЕХНО 2025
+## Команда: BattleStar
 
-# Кейс №5
+## Кейс №5
 <img width="661" alt="image" src="https://github.com/user-attachments/assets/e6853345-9220-4f61-be2d-453c59dfc761" />
 <img width="656" alt="image" src="https://github.com/user-attachments/assets/57c9c29c-8646-4890-9942-a6b34fa378cc" />
 
